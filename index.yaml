@@ -2,6 +2,29 @@ apiVersion: v1
 entries:
   dagster-cloud-agent:
   - apiVersion: v2
+    appVersion: 0.12.9
+    created: "2021-09-03T02:46:00.677514592Z"
+    description: Runs the Dagster Cloud Agent
+    digest: 8931eef35027b5861ad77b11561b25e20dd9f17d2fa9e1e1730d6b3e4d1ed0b9
+    icon: https://dagster.io/images/logo.png
+    keywords:
+    - analytics
+    - data-orchestrator
+    - data-pipelines
+    - etl
+    - workflow
+    - cloud
+    kubeVersion: '>= 1.15.0-0'
+    maintainers:
+    - email: hello@elementl.com
+      name: Elementl
+      url: https://dagster.io
+    name: dagster-cloud-agent
+    type: application
+    urls:
+    - https://dagster-io.github.io/helm-user-cloud/dagster-cloud-agent-0.12.9.tgz
+    version: 0.12.9
+  - apiVersion: v2
     appVersion: 0.12.8
     created: "2021-08-27T08:03:44.115818-07:00"
     description: Runs the Dagster Cloud Agent
@@ -277,4 +300,4 @@ entries:
     urls:
     - https://dagster-io.github.io/helm-user-cloud/dagster-cloud-agent-0.11.13.tgz
     version: 0.11.13
-generated: "2021-08-27T08:03:44.114923-07:00"
+generated: "2021-09-03T02:46:00.676566787Z"

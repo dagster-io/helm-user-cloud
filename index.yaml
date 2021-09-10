@@ -3,9 +3,9 @@ entries:
   dagster-cloud-agent:
   - apiVersion: v2
     appVersion: 0.12.10
-    created: "2021-09-10T02:00:14.487888853Z"
+    created: "2021-09-10T02:59:51.642478272Z"
     description: Runs the Dagster Cloud Agent
-    digest: 597b65ab02dff153f809a0571cde889cedb36aef6d9afa97c4552dc81f5164ab
+    digest: 3d088df8585666af61e4c98d8e6d5b89ca55abf958a9252944170688bdb5f589
     icon: https://dagster.io/images/logo.png
     keywords:
     - analytics
@@ -323,4 +323,4 @@ entries:
     urls:
     - https://dagster-io.github.io/helm-user-cloud/dagster-cloud-agent-0.11.13.tgz
     version: 0.11.13
-generated: "2021-09-10T02:00:14.485916906Z"
+generated: "2021-09-10T02:59:51.641514299Z"

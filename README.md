@@ -26,4 +26,4 @@ helm repo update
 
 ## Tutorial
 
-For a introductory guide on setting up Dagster Cloud Agent using Helm, [check out our documentation](https://docs.dagster.cloud/agents/kubernetes/setup).
+For a introductory guide on setting up Dagster Cloud Agent using Helm, [check out our documentation](https://docs.dagster.io/deployment/dagster-plus/hybrid/kubernetes/setup).

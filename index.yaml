@@ -2,6 +2,29 @@ apiVersion: v1
 entries:
   dagster-cloud-agent:
   - apiVersion: v2
+    appVersion: 1.12.19
+    created: "2026-03-12T18:00:53.96926199Z"
+    description: Run the Dagster Cloud Agent on Kubernetes.
+    digest: 3a0fae74cc2e7228c115e982f77319128976079b5fe52dece0a79991601a4595
+    icon: https://dagster.io/images/brand/logos/dagster-primary-mark.png
+    keywords:
+    - analytics
+    - data-orchestrator
+    - data-pipelines
+    - etl
+    - workflow
+    - cloud
+    kubeVersion: '>= 1.18.0-0'
+    maintainers:
+    - email: support@dagsterlabs.com
+      name: Dagster Labs
+      url: https://dagster.io/about
+    name: dagster-cloud-agent
+    type: application
+    urls:
+    - https://dagster-io.github.io/helm-user-cloud/dagster-cloud-agent-1.12.19.tgz
+    version: 1.12.19
+  - apiVersion: v2
     appVersion: 1.12.18
     created: "2026-03-05T21:32:27.372289317Z"
     description: Run the Dagster Cloud Agent on Kubernetes.
@@ -6441,4 +6464,4 @@ entries:
     urls:
     - https://dagster-io.github.io/helm-user-cloud/dagster-cloud-agent-0.11.13.tgz
     version: 0.11.13
-generated: "2026-03-05T21:32:27.369969879Z"
+generated: "2026-03-12T18:00:53.966791048Z"
